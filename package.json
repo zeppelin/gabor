@@ -6,6 +6,9 @@
   "author": "Gabor Babicz <gabor.babicz@gmail.com>",
   "license": "MIT",
   "private": false,
+  "bin": {
+    "gabor": "./index.js"
+  },
   "scripts": {
     "gabor": "node index.js"
   },
