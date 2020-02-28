@@ -1,0 +1,15 @@
+{
+  "name": "gabor",
+  "version": "1.0.0",
+  "description": "Gabor Babicz, UX developer",
+  "main": "index.js",
+  "author": "Gabor Babicz <gabor.babicz@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "gabor": "node index.js"
+  },
+  "dependencies": {
+    "chalk": "^3.0.0"
+  }
+}
